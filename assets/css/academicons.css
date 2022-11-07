@@ -15,14 +15,39 @@
     font-style: normal;
 }
 .ai {
-	display:inline-block;
+	text-decoration: none;
+	border-bottom: none;
+	position: relative;
+/* 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
 	text-decoration: none;
+	border-bottom: none; */
 }
+
+/* 
+.icon {
+	text-decoration: none;
+	border-bottom: none;
+	position: relative;
+}
+
+	.icon:before {
+		-moz-osx-font-smoothing: grayscale;
+		-webkit-font-smoothing: antialiased;
+		font-family: FontAwesome;
+		font-style: normal;
+		font-weight: normal;
+		text-transform: none !important;
+	}
+ */
+	.ai > .label {
+		display: none;
+	}
+
 .ai-academia:before {
   content: "\e800";
 }
@@ -109,9 +134,22 @@
 }
 .ai-google-scholar:before {
   content: "\e828";
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important;
 }
+
 .ai-google-scholar-square:before {
   content: "\e829";
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important;
 }
 .ai-ieee:before {
   content: "\e830";
