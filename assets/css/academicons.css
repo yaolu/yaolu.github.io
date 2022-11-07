@@ -134,22 +134,22 @@
 }
 .ai-google-scholar:before {
   content: "\e828";
-  -moz-osx-font-smoothing: grayscale;
+/*   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
-  text-transform: none !important;
+  text-transform: none !important; */
 }
 
 .ai-google-scholar-square:before {
   content: "\e829";
-  -moz-osx-font-smoothing: grayscale;
+/*   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
-  text-transform: none !important;
+  text-transform: none !important; */
 }
 .ai-ieee:before {
   content: "\e830";
