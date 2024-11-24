@@ -2463,7 +2463,7 @@
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #500778;
-		color: #d1f1e9;
+		color: #7c0bba;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2486,7 +2486,7 @@
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #7c0bba;
 		}
 
 			#header a:hover {
