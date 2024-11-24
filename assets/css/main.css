@@ -1574,7 +1574,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #500778 !important;
+			color: #4acaa8 !important;
 		}
 
 	strong, b {
@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #500778;
+		color: #4acaa8;
 		font-size: 3.5em;
 	}
 
@@ -1789,7 +1789,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #500778;
+			border-color: #4acaa8;
 		}
 
 	.select-wrapper {
@@ -1899,7 +1899,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #500778;
+			border-color: #4acaa8;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2092,7 +2092,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #500778;
+					background: #4acaa8;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #500778;
+			background-color: #4acaa8;
 			color: #ffffff !important;
 		}
 
@@ -2387,14 +2387,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #7c0bba;
+				background-color: #5ed0b1;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #7c0bba;
+				background-color: #39c29d;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2462,8 +2462,8 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #500778;
-		color: #7c0bba;
+		background: #4acaa8;
+		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2486,7 +2486,7 @@
 		}
 
 		#header a {
-			color: #7c0bba;
+			color: #d1f1e9;
 		}
 
 			#header a:hover {
@@ -2513,7 +2513,7 @@
 			}
 
 			#header > header p {
-				color: #7c0bba;
+				color: #d1f1e9;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2534,7 +2534,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #7c0bba;
+					color: #b6e9dc;
 				}
 
 		#header > nav {
@@ -2551,7 +2551,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #7c0bba;
+					border-top: solid 2px #5ccfb0;
 					display: block;
 					padding: 0;
 				}
@@ -2570,7 +2570,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #500778 !important;
+							color: #4acaa8 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2850,7 +2850,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #500778;
+						background: #4acaa8;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
