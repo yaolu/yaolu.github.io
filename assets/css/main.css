@@ -2513,7 +2513,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #7c0bba;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2534,7 +2534,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #7c0bba;
 				}
 
 		#header > nav {
@@ -2551,7 +2551,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #7c0bba;
 					display: block;
 					padding: 0;
 				}
